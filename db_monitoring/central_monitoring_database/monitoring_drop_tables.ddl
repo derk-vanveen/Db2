@@ -1,0 +1,9 @@
+drop table mon.ACT;
+drop table mon.BP;
+drop table mon.DB;
+drop table mon.HADR;
+drop table mon.LOCKS;
+drop table mon.PCKCACHE;
+drop table mon.TAB;
+drop table mon.TS;
+drop table mon.TXLOG;
